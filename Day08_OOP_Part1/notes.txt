@@ -1,0 +1,77 @@
+DAY 8 NOTES
+
+Object Oriented Programming (OOP)
+
+Definition:
+OOP is a programming paradigm that organizes code using objects.
+
+Why OOP?
+
+1. Better Code Organization
+2. Reusability
+3. Scalability
+4. Real World Modeling
+
+Class:
+Blueprint or Template
+
+Example:
+Student
+Car
+Server
+
+Object:
+Real instance of a class
+
+Examples:
+Shubham
+BMW
+Web Server
+
+Constructor:
+__init__()
+
+Purpose:
+Automatically initialize objects
+
+self:
+Represents current object
+
+Instance Variables:
+Variables belonging to an object
+
+Example:
+
+self.name
+self.age
+
+Cloud Engineering Example
+
+Class:
+Server
+
+Objects:
+Web Server
+Database Server
+Backup Server
+
+Collections Module
+
+Counter:
+Counts occurrences
+
+defaultdict:
+Creates default values automatically
+
+deque:
+Fast insertion and deletion from both ends
+
+Learning Outcome
+
+- Understood OOP
+- Created Classes
+- Created Objects
+- Used Constructors
+- Learned self
+- Learned Instance Variables
+- Learned Collections Module
