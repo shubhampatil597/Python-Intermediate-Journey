@@ -1,0 +1,89 @@
+DAY 9 NOTES
+
+Methods
+
+A method is a function inside a class.
+
+Types of Methods
+
+1. Instance Method
+2. Class Method
+3. Static Method
+
+Instance Method
+
+Uses self
+
+Works with object data
+
+Example:
+
+self.name
+
+Class Variable
+
+Shared by all objects
+
+Example:
+
+college = "D Y Patil College"
+
+Class Method
+
+Uses @classmethod
+
+Uses cls
+
+Works with class data
+
+Static Method
+
+Uses @staticmethod
+
+Does not use self
+
+Does not use cls
+
+Used for utility functions
+
+Object Lifecycle
+
+1. Object Creation
+
+s1 = Student()
+
+2. Object Usage
+
+s1.display()
+
+3. Object Destruction
+
+del s1
+
+Destructor
+
+__del__()
+
+Cloud Engineering Example
+
+Class:
+Server
+
+Class Variable:
+cloud_provider
+
+Instance Variables:
+server_name
+ip_address
+
+Methods:
+restart()
+shutdown()
+
+Learning Outcome
+
+- Learned Methods
+- Learned Class Variables
+- Learned Class Methods
+- Learned Static Methods
+- Learned Object Lifecycle
