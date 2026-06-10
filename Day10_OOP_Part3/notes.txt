@@ -1,0 +1,78 @@
+DAY 10 NOTES
+
+Encapsulation
+
+Definition:
+Protecting data by controlling access.
+
+Benefits:
+
+1. Security
+2. Data Integrity
+3. Maintainability
+4. Better Design
+
+Public Members
+
+Syntax:
+variable
+
+Example:
+self.name
+
+Protected Members
+
+Syntax:
+_variable
+
+Example:
+self._age
+
+Private Members
+
+Syntax:
+__variable
+
+Example:
+self.__password
+
+Getter
+
+Purpose:
+Read private data
+
+Setter
+
+Purpose:
+Modify private data safely
+
+Data Hiding
+
+Prevents direct access to sensitive information.
+
+Examples:
+
+Password
+PIN
+Balance
+API Keys
+
+Advanced Collections
+
+namedtuple:
+Tuple with named fields
+
+OrderedDict:
+Ordered dictionary
+
+ChainMap:
+Combines multiple dictionaries
+
+Learning Outcome
+
+- Learned Encapsulation
+- Learned Data Hiding
+- Learned Getters
+- Learned Setters
+- Learned Advanced Collections
+- Completed Bank Account Project
