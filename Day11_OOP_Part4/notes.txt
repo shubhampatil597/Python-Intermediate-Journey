@@ -1,0 +1,104 @@
+DAY 11 NOTES
+
+Inheritance
+
+Definition:
+Allows one class to inherit properties and methods from another class.
+
+Benefits:
+
+1. Code Reusability
+2. Easy Maintenance
+3. Scalability
+4. Better Design
+
+Parent Class
+
+Provides functionality.
+
+Child Class
+
+Inherits functionality.
+
+Single Inheritance
+
+One Parent
+One Child
+
+Example:
+
+Animal → Dog
+
+Multilevel Inheritance
+
+Parent → Child → Grandchild
+
+Example:
+
+Animal → Dog → Puppy
+
+Hierarchical Inheritance
+
+One Parent
+Many Children
+
+Example:
+
+Animal → Dog
+Animal → Cat
+
+Method Overriding
+
+Replace Parent Method.
+
+super()
+
+Access Parent Methods and Constructors.
+
+dataclass
+
+Automatically Creates:
+
+__init__()
+__repr__()
+__eq__()
+
+Benefits:
+
+Less Code
+Cleaner Classes
+
+Type Hints
+
+Used To Specify Data Types.
+
+Examples:
+
+int
+float
+str
+list[int]
+
+Benefits:
+
+Readable Code
+Better Documentation
+
+Advanced namedtuple
+
+_fields
+_asdict()
+_replace()
+_make()
+
+Advanced OrderedDict
+
+move_to_end()
+popitem()
+
+Cloud Engineering Usage
+
+Infrastructure Automation
+Deployment Pipelines
+Server Management
+Configuration Systems
