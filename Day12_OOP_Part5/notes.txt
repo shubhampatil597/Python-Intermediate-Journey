@@ -1,0 +1,101 @@
+DAY 12 NOTES
+
+POLYMORPHISM
+
+Definition:
+
+One Interface
+Many Forms
+
+Benefits:
+
+1. Flexible Code
+2. Reusable Design
+3. Scalability
+4. Easy Maintenance
+
+RUNTIME POLYMORPHISM
+
+Achieved Through:
+
+Method Overriding
+
+DUCK TYPING
+
+Python checks behavior.
+
+Not object type.
+
+Rule:
+
+If object has required method,
+Python allows it.
+
+OPERATOR OVERLOADING
+
+Customize Operators.
+
+Example:
+
++
+-
+*
+/
+
+Magic Method:
+
+__add__()
+
+MAGIC METHODS
+
+Special Methods Called Automatically.
+
+Examples:
+
+__init__()
+__str__()
+__add__()
+__len__()
+__repr__()
+
+ENUM
+
+Fixed Collection Of Constants.
+
+Benefits:
+
+1. Consistency
+2. Readability
+3. Error Prevention
+
+Examples:
+
+RUNNING
+STOPPED
+FAILED
+
+PATHLIB
+
+Modern File Handling Module.
+
+Important Methods:
+
+Path.cwd()
+Path.home()
+mkdir()
+touch()
+exists()
+
+Cloud Engineering Usage:
+
+Infrastructure Automation
+
+DevOps Scripts
+
+Configuration Management
+
+Cloud Resource Tracking
+
+Monitoring Systems
+
+Deployment Automation
