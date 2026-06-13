@@ -1,0 +1,89 @@
+DAY 13 NOTES
+
+ABSTRACTION
+
+Hide Implementation
+Show Functionality
+
+Benefits:
+
+1. Less Complexity
+2. Better Security
+3. Easy Maintenance
+4. Professional Design
+
+ABSTRACT CLASS
+
+Blueprint Class
+
+Cannot Create Objects Directly
+
+Used For Standard Design
+
+ABSTRACT METHOD
+
+Method Without Implementation
+
+Must Be Implemented By Child Classes
+
+ABC MODULE
+
+Imports:
+
+ABC
+
+abstractmethod
+
+INTERFACE DESIGN
+
+Provides Consistent Structure
+
+Used In:
+
+AWS SDK
+
+Azure SDK
+
+Terraform
+
+ITERATOR
+
+Produces One Value At A Time
+
+Functions:
+
+iter()
+
+next()
+
+GENERATOR
+
+Special Iterator
+
+Keyword:
+
+yield
+
+Benefits:
+
+Memory Efficient
+
+Fast
+
+Scalable
+
+LAZY EVALUATION
+
+Generate Data Only When Needed
+
+CLOUD USE CASES
+
+Automation
+
+Monitoring
+
+Log Processing
+
+Streaming Data
+
+Cloud Resource Management
