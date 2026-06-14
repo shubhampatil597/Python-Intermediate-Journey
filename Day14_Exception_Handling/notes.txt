@@ -1,0 +1,99 @@
+DAY 14 NOTES
+
+EXCEPTION
+
+Runtime Error
+
+Occurs During Program Execution
+
+EXCEPTION HANDLING
+
+Prevents Program Crash
+
+Makes Programs Reliable
+
+TRY
+
+Monitors Risky Code
+
+EXCEPT
+
+Handles Errors
+
+ELSE
+
+Runs When No Error Occurs
+
+FINALLY
+
+Runs Always
+
+Used For Cleanup Tasks
+
+COMMON EXCEPTIONS
+
+ValueError
+
+TypeError
+
+ZeroDivisionError
+
+IndexError
+
+KeyError
+
+FileNotFoundError
+
+RAISE
+
+Used To Create Exceptions Manually
+
+Example:
+
+raise ValueError("Invalid Data")
+
+CUSTOM EXCEPTION
+
+User Defined Exception
+
+Example:
+
+class InvalidAgeError(Exception):
+
+    pass
+
+CONTEXT MANAGER
+
+Automatic Resource Management
+
+WITH STATEMENT
+
+Automatically Opens Resource
+
+Automatically Closes Resource
+
+DECORATOR
+
+Function That Modifies Another Function
+
+BENEFITS
+
+Code Reuse
+
+Logging
+
+Authentication
+
+Monitoring
+
+CLOUD USE CASES
+
+API Error Handling
+
+Automation Scripts
+
+Log Analysis
+
+Monitoring Systems
+
+Cloud Resource Management
