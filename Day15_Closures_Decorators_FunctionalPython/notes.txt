@@ -1,0 +1,81 @@
+DAY 15 NOTES
+
+FUNCTIONS AS FIRST-CLASS OBJECTS
+
+Functions are objects.
+
+Can be stored in variables.
+
+Can be passed as arguments.
+
+Can be returned from functions.
+
+NESTED FUNCTIONS
+
+Function inside another function.
+
+CLOSURES
+
+Function remembers variables from outer scope.
+
+STATE PRESERVATION
+
+Data remains available after outer function ends.
+
+DECORATORS
+
+Enhance functions without changing original code.
+
+FUNCTION WRAPPER
+
+Extra layer around a function.
+
+@ SYNTAX
+
+Shortcut for applying decorators.
+
+MULTIPLE DECORATORS
+
+More than one decorator on a function.
+
+PARAMETERIZED DECORATORS
+
+Decorators that accept arguments.
+
+*ARGS
+
+Handles positional arguments.
+
+**KWARGS
+
+Handles keyword arguments.
+
+LAMBDA
+
+Anonymous function.
+
+MAP
+
+Transforms every item.
+
+FILTER
+
+Selects matching items.
+
+REDUCE
+
+Aggregates data into one result.
+
+CLOUD USE CASES
+
+Authentication
+
+Logging
+
+Monitoring
+
+API Processing
+
+Resource Filtering
+
+Cost Analysis
