@@ -1,0 +1,57 @@
+DAY 16 NOTES
+
+FUNCTOOLS
+
+Provides advanced utilities for working with functions.
+
+PARTIAL
+
+Creates pre-configured functions.
+
+Useful for reusable automation functions.
+
+WRAPS
+
+Preserves original function metadata.
+
+Keeps function name and documentation intact.
+
+LRU_CACHE
+
+Stores previously calculated results.
+
+Improves performance.
+
+MEMOIZATION
+
+Technique of remembering previously computed values.
+
+CLASS DECORATORS
+
+Decorators applied to classes.
+
+Used for registration and configuration.
+
+LOGGING DECORATOR
+
+Tracks function execution.
+
+TIMING DECORATOR
+
+Measures execution time.
+
+DECORATOR CHAINING
+
+Applying multiple decorators to a single function.
+
+CLOUD USE CASES
+
+API Monitoring
+
+Performance Tracking
+
+Automation Logging
+
+Caching Expensive Operations
+
+Framework Development
