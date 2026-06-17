@@ -1,0 +1,121 @@
+DAY 17 NOTES
+
+ITERABLE
+
+Collection of values that can be looped.
+
+Examples:
+
+List
+
+Tuple
+
+Set
+
+Dictionary
+
+String
+
+ITERATOR
+
+Produces values one at a time.
+
+Created using iter().
+
+Accessed using next().
+
+LAZY EVALUATION
+
+Values are generated only when required.
+
+Benefits:
+
+Less Memory
+
+Better Performance
+
+Scalability
+
+ITERTOOLS
+
+Provides high performance iterator tools.
+
+COUNT
+
+Infinite Counter.
+
+Used for:
+
+IDs
+
+Ticket Numbers
+
+Job Numbers
+
+CYCLE
+
+Repeats sequence forever.
+
+Useful for:
+
+Round Robin Scheduling
+
+Load Balancing
+
+REPEAT
+
+Repeats same value.
+
+CHAIN
+
+Combines multiple iterables.
+
+COMBINATIONS
+
+Order does not matter.
+
+AB = BA
+
+PERMUTATIONS
+
+Order matters.
+
+AB ≠ BA
+
+PRODUCT
+
+Cartesian Product.
+
+GENERATOR FUNCTION
+
+Uses yield.
+
+Produces values on demand.
+
+GENERATOR EXPRESSION
+
+Lazy version of list comprehension.
+
+FUNCTIONAL PIPELINE
+
+Map
+
+↓
+
+Filter
+
+↓
+
+Output
+
+CLOUD USE CASES
+
+Log Processing
+
+Monitoring
+
+Analytics
+
+Event Streams
+
+Automation Pipelines
