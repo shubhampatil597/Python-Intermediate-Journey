@@ -1,0 +1,99 @@
+DAY 18 NOTES
+
+LOGGING
+
+Records application events.
+
+WHY LOGGING?
+
+Monitoring
+
+Troubleshooting
+
+Auditing
+
+Debugging
+
+LOGGING LEVELS
+
+DEBUG
+
+Detailed information.
+
+INFO
+
+Normal application events.
+
+WARNING
+
+Potential problem.
+
+ERROR
+
+Operation failed.
+
+CRITICAL
+
+Serious failure.
+
+BASICCONFIG
+
+Configures logging behavior.
+
+DEFAULT LEVEL
+
+WARNING
+
+LOG FORMATTING
+
+%(asctime)s
+
+Timestamp
+
+%(levelname)s
+
+Log Level
+
+%(message)s
+
+Message
+
+FILE LOGGING
+
+Stores logs permanently.
+
+LOGGER OBJECT
+
+Custom logger instance.
+
+HANDLER
+
+Controls where logs go.
+
+Console
+
+File
+
+Cloud Services
+
+EXCEPTION LOGGING
+
+Captures errors and traceback.
+
+STRUCTURED LOGGING
+
+Machine-readable logs.
+
+MONITORING
+
+Uses logs for alerting.
+
+CLOUD USE CASES
+
+Application Monitoring
+
+Security Monitoring
+
+Infrastructure Monitoring
+
+Incident Investigation
