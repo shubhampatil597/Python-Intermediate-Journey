@@ -1,0 +1,131 @@
+DAY 20 NOTES
+
+REGEX
+
+Regular Expression
+
+Used For:
+
+Search
+
+Validation
+
+Extraction
+
+Replacement
+
+IMPORTANT FUNCTIONS
+
+search()
+
+Search Entire String
+
+match()
+
+Beginning Only
+
+fullmatch()
+
+Entire String
+
+findall()
+
+Returns All Matches
+
+finditer()
+
+Returns Match Objects
+
+split()
+
+Splits Text
+
+sub()
+
+Replaces Text
+
+CHARACTER CLASSES
+
+\d
+
+Digit
+
+\D
+
+Non Digit
+
+\s
+
+Whitespace
+
+\S
+
+Non Whitespace
+
+\w
+
+Word Character
+
+\W
+
+Non Word Character
+
+QUANTIFIERS
+
+*
+
+0 Or More
+
++
+
+1 Or More
+
+?
+
+0 Or 1
+
+{n}
+
+Exactly n Times
+
+{n,m}
+
+Range
+
+ANCHORS
+
+^
+
+Beginning
+
+$
+
+End
+
+GROUPS
+
+Used To Extract Data
+
+NAMED GROUPS
+
+Readable Groups
+
+FLAGS
+
+IGNORECASE
+
+MULTILINE
+
+DOTALL
+
+CLOUD USE CASES
+
+Log Analysis
+
+Security Monitoring
+
+Email Validation
+
+IP Detection
+
+Automation Scripts
